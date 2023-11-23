@@ -1,0 +1,9 @@
+.dash_board_conatiner--wrapper{
+    padding: 10px;
+    height: 95vh;
+    overflow: auto;
+}
+.user_data--conatiner{
+    margin-top: 10px;
+    text-align: left;
+}
